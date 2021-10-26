@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bn.js": "^5.2.0",
+    "ethereumjs-testrpc": "^6.0.3",
+    "express": "^4.17.1",
+    "web3": "^1.6.0"
+  }
+}
